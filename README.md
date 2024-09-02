@@ -1,5 +1,5 @@
 <html>
   <head>
-    <title><h1> hi</h1></title>
+    <h1> hi</h1>
   </head>
 </html>
